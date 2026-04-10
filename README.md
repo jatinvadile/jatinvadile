@@ -41,6 +41,6 @@ workflows using Power Automate and FedEx API integration.
 | Project | Stack | Highlights |
 |---|---|---|
 | [Cashflow Analysis Dashboard](https://github.com/jatinvadile/Cashflow-Analysis-Dashboard) | Power BI · SQL · Python | Multi-currency (TZS/USD), 40% effort reduction |
-| [Logistics & Shipment Dashboard](https://github.com/jatinvadile/logistics-dashboard) | Power BI · Snowflake · FedEx API | 7 global hubs, OTIF tracking, 50% effort reduction |
+| [Logistics & Shipment Dashboard](https://github.com/jatinvadile/Logistics-Shipment-Analytics-Dashboard) | Power BI · Snowflake · FedEx API | 7 global hubs, OTIF tracking, 50% effort reduction |
 | [FP&A Executive Dashboard](https://github.com/jatinvadile/FP-A-Executive-Dashboard) | Power BI · DAX · SQL | $111M revenue, EBITDA %, budget vs actuals |
 | [Python ETL Pipeline](https://github.com/jatinvadile/etl-pipeline) | Python · Pandas · Snowflake | FedEx API → Snowflake automated pipeline |
