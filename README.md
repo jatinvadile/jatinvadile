@@ -30,7 +30,7 @@ workflows using Power Automate and FedEx API integration.
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Microsoft Certified: Fabric Data Engineer Associate (DP-700)
-- Data Science Professional Certificate — OdinSchool
+- Data Science Professional Certificate - OdinSchool
 - Supply Chain Management Specialization
 - Excel Skills for Business Specialization
 
