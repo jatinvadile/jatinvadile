@@ -38,9 +38,15 @@ I specialize in turning fragmented, multi-source data into reliable, decision-re
 
 ## Certifications
 
-[![PL-300](https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst_Associate-F2C811?logo=powerbi&logoColor=black&style=flat)](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF)
-[![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer_Associate-0078D4?logo=microsoftazure&logoColor=white&style=flat)](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF)
-![DP-700](https://img.shields.io/badge/DP--700-Fabric_Data_Engineer_Associate-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+<p>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF">
+    <img src="badges/pl300-power-bi-data-analyst.png" alt="PL-300 Power BI Data Analyst Associate" width="150"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF">
+    <img src="badges/dp600-fabric-analytics-engineer.png" alt="DP-600 Fabric Analytics Engineer Associate" width="150"/>
+  </a>
+  <img src="badges/dp700-fabric-data-engineer.png" alt="DP-700 Fabric Data Engineer Associate" width="150"/>
+</p>
 
 - 🏅 Microsoft Certified: [Power BI Data Analyst Associate **(PL-300)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF)
 - 🏅 Microsoft Certified: [Fabric Analytics Engineer Associate **(DP-600)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF)
