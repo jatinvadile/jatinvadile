@@ -45,12 +45,14 @@ I specialize in turning fragmented, multi-source data into reliable, decision-re
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF">
     <img src="badges/dp600-fabric-analytics-engineer.png" alt="DP-600 Fabric Analytics Engineer Associate" width="150"/>
   </a>
-  <img src="badges/dp700-fabric-data-engineer.png" alt="DP-700 Fabric Data Engineer Associate" width="150"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/607C7284F14C6F32?sharingId=6EE3635938C441CF">
+    <img src="badges/dp700-fabric-data-engineer.png" alt="DP-700 Fabric Data Engineer Associate" width="150"/>
+  </a>
 </p>
 
 - 🏅 Microsoft Certified: [Power BI Data Analyst Associate **(PL-300)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF)
 - 🏅 Microsoft Certified: [Fabric Analytics Engineer Associate **(DP-600)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF)
-- 🏅 Microsoft Certified: Fabric Data Engineer Associate **(DP-700)**
+- 🏅 Microsoft Certified: [Fabric Data Engineer Associate **(DP-700)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/607C7284F14C6F32?sharingId=6EE3635938C441CF)
 - 🎓 Data Science Professional Certificate - OdinSchool
 - 📦 Supply Chain Management Specialization
 - 📊 Excel Skills for Business Specialization
