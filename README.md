@@ -1,6 +1,6 @@
 # Hi, I'm Jatin Vadile 👋
 
-**Data Analyst | Power BI (PL-300) | Microsoft Fabric (DP-700)**
+**Data Analyst | Power BI (PL-300) | Microsoft Fabric (DP-600, DP-700)**
 
 📍 Pune, India  |  📧 vadilejatin8144@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinvadile-blue?logo=linkedin&style=flat)](https://linkedin.com/in/jatinvadile)
@@ -9,7 +9,7 @@
 
 ## About Me
 
-Data Analyst with **5 years of experience** building end-to-end BI and analytics solutions across six industries - **E-Commerce, Retail, Shipping & Port, Supply Chain, Banking & Finance, and Healthcare**.
+Data Analyst with **3.5+ years of experience** building end-to-end BI and analytics solutions across six industries - **E-Commerce, Retail, Shipping & Port, Supply Chain, Banking & Finance, and Healthcare**.
 
 I specialize in turning fragmented, multi-source data into reliable, decision-ready dashboards and automated pipelines. My work spans the full analytics stack - from API ingestion and SQL modeling to Power BI reporting and executive-level KPI delivery.
 
@@ -19,7 +19,7 @@ I specialize in turning fragmented, multi-source data into reliable, decision-re
 - 📊 Business-facing dashboards built for planning, operations, and performance reviews
 - 🧠 Domain understanding across finance, logistics, healthcare, and retail
 
-**Certified in:** Power BI (PL-300) · Microsoft Fabric (DP-700)
+**Certified in:** Power BI (PL-300) · Microsoft Fabric Analytics Engineer (DP-600) · Microsoft Fabric Data Engineer (DP-700)
 
 ---
 
@@ -38,7 +38,12 @@ I specialize in turning fragmented, multi-source data into reliable, decision-re
 
 ## Certifications
 
-- 🏅 Microsoft Certified: Power BI Data Analyst Associate **(PL-300)**
+[![PL-300](https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst_Associate-F2C811?logo=powerbi&logoColor=black&style=flat)](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF)
+[![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer_Associate-0078D4?logo=microsoftazure&logoColor=white&style=flat)](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF)
+![DP-700](https://img.shields.io/badge/DP--700-Fabric_Data_Engineer_Associate-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+
+- 🏅 Microsoft Certified: [Power BI Data Analyst Associate **(PL-300)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/AF0F51C0D49C6B34?sharingId=6EE3635938C441CF)
+- 🏅 Microsoft Certified: [Fabric Analytics Engineer Associate **(DP-600)**](https://learn.microsoft.com/api/credentials/share/en-us/JatinVadile/70783EB4E08A3FCE?sharingId=6EE3635938C441CF)
 - 🏅 Microsoft Certified: Fabric Data Engineer Associate **(DP-700)**
 - 🎓 Data Science Professional Certificate - OdinSchool
 - 📦 Supply Chain Management Specialization
